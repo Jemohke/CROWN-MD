@@ -341,7 +341,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
         case "menu":
 let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
 ┃✯╭──────────────
-┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏_*
+┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : 𝗡𝗶𝗰𝗸 𝗛𝘂𝗻𝘁𝗲𝗿_*
 ┃✯│ *_𝐔𝐬𝐞𝐫 : ${m.pushName}_*
 ┃✯│ *_𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : 𝐋𝐢𝐧𝐮𝐱_*
 ┃✯│ *_𝐒𝐩𝐞𝐞𝐝 : ${dreadedspeed.toFixed(4)} 𝐦𝐬_*
@@ -1876,7 +1876,7 @@ case "movie":
  break;
  
       case "sirm": case "owner": case "sirm": 
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Say no more 😌 here is 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 contact +923195832822 🥱` }, {quoted: m}); 
+ client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/0b64b4a37ebe0cb19c458.mp4' }, caption: `Don't Dm for no reason 😌 here is 𝗡𝗶𝗰𝗸 𝗛𝘂𝗻𝘁𝗲𝗿 contact +254114660061 🦄` }, {quoted: m}); 
   
  break;
        
@@ -1979,7 +1979,7 @@ case "movie":
         case "gpt": case "g": 
           
 
-            if (!text) return reply("Hello am 𝐂𝐑𝐎𝐖𝐍 an Ai developed by 𝐒𝐢𝐫𝐦, how can I help you today?");
+            if (!text) return reply("Hello am 𝐂𝐑𝐎𝐖𝐍 an Ai developed by Nick, how can I help you today?");
 
            const configuration = new Configuration({
 
